@@ -117,7 +117,8 @@ public class MainFrame extends javax.swing.JFrame {
 
     private void jMenuItem3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenuItem3ActionPerformed
         // exit
-        dispose();
+        //dispose();
+        System.exit(0);
     }//GEN-LAST:event_jMenuItem3ActionPerformed
 
     private void selectMenu(int num) {
